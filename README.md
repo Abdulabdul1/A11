@@ -1,0 +1,2 @@
+# A11
+My Top Skills: 1) Android (Java, Kotlin, XML) 2) iOS (Swift , Objective C) 3) UI/UX Design for Mobile(Android/iOS) Apps 4) Paytm,PayU Money, RazorPay, Heartland and many more paymnet gateway integrated 5) Retrofit, Volley, Alamofire, GSON 6) Glide, Picasso, SDWebImage 7) Firebase, Twillio, In App purchase(Android/iOS) 8) Google Map, Realm, MySQL, SQLite, REST API Integration 9) Core PHP, Codeigniter, Laravel 10)Fabrics Crashalytics, Push Notification
